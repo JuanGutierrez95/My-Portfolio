@@ -191,8 +191,8 @@ export const projects: IProject[] = [
     description:
       "Portfolio web desarrollado con React, Typescript, Next.js y TailwindCSS. Incluye mi experiencia, educacion, currículum, habilidades y proyectos.",
     image_path: "/images/myportfolio.jpeg",
-    deployed_url: "/https://sport-planet.vercel.app/",
-    github_url: "https://github.com/JuanGutierrez95",
+    deployed_url: "https://juangutierrezportfolio.vercel.app/",
+    github_url: "https://github.com/JuanGutierrez95/My-Portfolio",
     category: ["React", "Next.Js", "Tailwind CSS", "Typescript"],
     key_techs: ["React", "Next.Js", "Tailwind CSS", "Typescript"],
   },
