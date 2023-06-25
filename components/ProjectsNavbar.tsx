@@ -28,7 +28,7 @@ const ProjectsNavbar: FC<{
       <NavItem value="React" {...props} />
       <NavItem value="Next.Js" {...props} />
       <NavItem value="Tailwind CSS" {...props} />
-      <NavItem value="CSS3" {...props} />
+      <NavItem value="CSS" {...props} />
     </div>
   );
 };
