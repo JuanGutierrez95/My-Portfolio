@@ -204,7 +204,7 @@ export const projects: IProject[] = [
     image_path: "/images/sportplanet.jpeg",
     deployed_url: "https://sport-planet.vercel.app/",
     github_url: "https://github.com/JuanGutierrez95/SportPlanet-",
-    category: ["React", "Javascript", "Tailwind CSS", "CSS3"],
+    category: ["React", "Javascript", "Tailwind CSS", "CSS"],
     key_techs: [
       "Javascript",
       "React",
@@ -215,6 +215,7 @@ export const projects: IProject[] = [
       "Mongoose",
       "Auth0",
       "Tailwind CSS",
+      "CSS",
     ],
   },
   {
@@ -224,7 +225,7 @@ export const projects: IProject[] = [
       "Diseñar y desarrollar una aplicación web de Pokémon utilizando tecnologías y herramientas modernas para ofrecer una experiencia de usuario interactiva y atractiva. Implementación de funcionalidades como búsquedas, filtrados combinados, ordenamientos, formulario controlado, paginado y detalles con información relevante de cada Pokémon. Colaboración en un entorno ágil y orientado a la consecución de objetivos, siguiendo buenas prácticas de desarrollo y diseño.",
     image_path: "/images/pokemon.jpeg",
     github_url: "https://github.com/JuanGutierrez95/POKEMON",
-    category: ["React", "Javascript", "CSS3"],
+    category: ["React", "Javascript", "CSS"],
     key_techs: [
       "Javascript",
       "React",

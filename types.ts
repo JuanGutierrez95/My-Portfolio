@@ -36,4 +36,4 @@ export type Category =
   | "React"
   | "Next.Js"
   | "Tailwind CSS"
-  | "CSS3";
+  | "CSS";
