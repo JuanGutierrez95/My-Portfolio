@@ -22,15 +22,14 @@ const ResumeContent = () => {
             {shortText}
             {fullText}
             <a
-          href="\assets\Front-End-Full-Stack-Developer_Juan_Gutierrez.pdf"
-          download="Front-End-Full-Stack-Developer_Juan_Gutierrez.pdf"
-          aria-label="Resume"
-        >
-          <button className="text-blue">
-            
-            <p>Descargue mi currículum para ver más.</p>
-          </button>
-        </a>
+              href="\assets\FrontEnd-FullStackDeveloper_Juan_Gutierrez.pdf"
+              download="FrontEnd-FullStackDeveloper_Juan_Gutierrez.pdf"
+              aria-label="Resume"
+            >
+              <button className="text-blue">
+                <p>Descargue mi currículum para ver más.</p>
+              </button>
+            </a>
             <button
               className="font-bold ml-2 cursor-pointer text-blue focus:outline-none"
               onClick={toggleText}
@@ -48,11 +47,8 @@ const ResumeContent = () => {
             >
               Leer más...
             </button>
-            
           </>
         )}
-
-        
       </p>
     </div>
   );
