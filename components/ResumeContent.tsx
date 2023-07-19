@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import { IoMdArrowRoundBack } from "react-icons/io";
 
-const shortText = `Como desarrollador Front End para BlustFunnels, desarrollé y mantuve el sitio web de la empresa y aplicaciones utilizando mi experiencia en React, Typescript y pruebas unitarias con Jest. Pude trabajar eficientemente con el equipo de desarrollo para lograr los plazos del proyecto y proporcionar productos de alta calidad debido a mi conocimiento con metodología ágil y scrum.`;
+const shortText = `Como desarrollador, estoy trabajando en proyectos utilizando tecnologías como TypeScript, React, Tailwind CSS, Next.js, Node.js y Express. Mi enfoque se centra en el desarrollo de interfaces de usuario interactivas y receptivas con React y TypeScript, utilizando las mejores prácticas para escribir un código limpio y eficiente. Además, estoy utilizando Tailwind CSS para la maquetación de estilos, lo que me permite diseñar interfaces atractivas de manera rápida y sencilla.`;
 
-const fullText = ` Para asegurarme de que todo el código se mantuvo y administró correctamente, también utilice Git y GitHub como sistemas de control de versiones. Fui miembro útil de equipo y contribuí al éxito del negocio gracias a mis conocimientos en desarrollo web y mi capacidad para escribir código limpio y efectivo.`;
+const fullText = ` También estoy aprovechando las ventajas de Next.js para optimizar el rendimiento de las aplicaciones mediante técnicas como el renderizado del lado del servidor y la generación de sitios estáticos. En el lado del servidor, estoy trabajando con Node.js y Express para desarrollar servicios web robustos y escalables, asegurando una comunicación eficiente entre el cliente y el servidor.`;
 
 const ResumeContent = () => {
   const [showFullText, setShowFullText] = useState(false);
@@ -14,8 +14,8 @@ const ResumeContent = () => {
 
   return (
     <div>
-      <h5 className="my-2 text-lg font-bold">Front End Developer</h5>
-      <p className="my-3">Junio 2022 - Diciembre 2022</p>
+      <h5 className="my-2 text-lg font-bold">Front End | Full Stack Developer</h5>
+      <p className="my-3">Abril 2023 - Actualmente</p>
       <p className="my-3 text-base text-justify">
         {showFullText ? (
           <>
