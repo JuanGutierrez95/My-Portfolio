@@ -22,8 +22,8 @@ const ResumeContent = () => {
             {shortText}
             {fullText}
             <a
-              href="\assets\FrontEnd-FullStackDeveloper_Juan_Gutierrez.pdf"
-              download="FrontEnd-FullStackDeveloper_Juan_Gutierrez.pdf"
+              href="\assets\Front-End-FullStackDeveloper_Juan_Gutierrez.pdf"
+              download="Front-End-FullStackDeveloper_Juan_Gutierrez.pdf"
               aria-label="Resume"
             >
               <button className="text-blue">
