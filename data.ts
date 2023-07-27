@@ -19,6 +19,8 @@ import {
   SiJirasoftware,
   SiMongodb,
   SiNextdotjs,
+  SiCsharp,
+  SiDotnet,
   SiNodedotjs,
   SiPostgresql,
   SiReact,
@@ -108,6 +110,16 @@ export const languages: ISkill[] = [
     Icon: SiNextdotjs,
     name: "Next.Js",
     level: "75%",
+  },
+  {
+    Icon: SiCsharp,
+    name: "C#",
+    level: "15%",
+  },
+  {
+    Icon: SiDotnet,
+    name: ".NET",
+    level: "15%",
   },
   {
     Icon: SiHtml5,
