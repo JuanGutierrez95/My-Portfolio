@@ -22,8 +22,8 @@ const ResumeContent = () => {
             {shortText}
             {fullText}
             <a
-              href="\assets\Front-End-FullStack-Developer_Juan_Gutierrez.pdf"
-              download="Front-End-FullStack-Developer_Juan_Gutierrez.pdf"
+              href="\assets\Juan-Gutierrez-Desarrollador-Front-End-Full-Stack.pdf"
+              download="Juan-Gutierrez-Desarrollador-Front-End-Full-Stack.pdf"
               aria-label="Resume"
             >
               <button className="text-blue">
@@ -31,7 +31,7 @@ const ResumeContent = () => {
               </button>
             </a>
             <button
-              className="font-bold ml-2 cursor-pointer text-blue focus:outline-none"
+              className="ml-2 font-bold cursor-pointer text-blue focus:outline-none"
               onClick={toggleText}
             >
               <IoMdArrowRoundBack />

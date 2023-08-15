@@ -126,16 +126,6 @@ export const languages: ISkill[] = [
     name: "Jest",
     level: "45%",
   },
-  {
-    Icon: SiCsharp,
-    name: "C#",
-    level: "15%",
-  },
-  {
-    Icon: SiDotnet,
-    name: ".NET",
-    level: "15%",
-  },
 ];
 
 export const tools: ISkill[] = [
