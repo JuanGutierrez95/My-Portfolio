@@ -238,4 +238,21 @@ export const projects: IProject[] = [
       "Sequelize",
     ],
   },
+  {
+    id: 4,
+    name: "App Weather",
+    description:
+      "Diseñar y desarrollar una aplicación web de clima utilizando tecnologías y herramientas modernas para ofrecer una experiencia de usuario interactiva y atractiva.",
+    image_path: "/images/weather.jpeg",
+    github_url: "https://github.com/JuanGutierrez95/WeatherApp",
+    deployed_url: "https://drive.google.com/file/d/1HvjTcRiidV3ne4C3mqs3tvpkdgvwePJi/view?usp=drive_link",
+    category: ["React", "Javascript", "Next.Js", "Typescript", "Tailwind CSS"],
+    key_techs: [
+      "Javascript",
+      "React",
+      "Next.Js",
+      "Typescript",
+      "Tailwind CSS",
+    ],
+  }
 ];
