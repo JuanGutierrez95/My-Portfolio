@@ -243,7 +243,7 @@ export const projects: IProject[] = [
     name: "App Weather",
     description:
       "Diseñar y desarrollar una aplicación web de clima utilizando tecnologías y herramientas modernas para ofrecer una experiencia de usuario interactiva y atractiva.",
-    image_path: "/images/foro.jpeg",
+    image_path: "/images/weather.jpeg",
     github_url: "https://github.com/JuanGutierrez95/WeatherApp",
     deployed_url:
       "https://drive.google.com/file/d/1HvjTcRiidV3ne4C3mqs3tvpkdgvwePJi/view?usp=drive_link",
@@ -255,7 +255,7 @@ export const projects: IProject[] = [
     name: "Foro App",
     description:
       "¡Bienvenido a mi foro personalizado! Aquí encontrarás un espacio dedicado a compartir mis reflexiones, conocimientos y experiencias sobre una amplia gama de temas. Cada publicación está cuidadosamente elaborada y puede incluir enlaces a imágenes relevantes. ¡Explora y únete a la conversación!",
-    image_path: "/images/weather.jpeg",
+    image_path: "/images/foro.jpeg",
     github_url:
       "https://github.com/JuanGutierrez95/Comision-21646-A-Juan-Gutierrez",
     deployed_url: "In progress",
