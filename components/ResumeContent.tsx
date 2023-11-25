@@ -14,7 +14,9 @@ const ResumeContent = () => {
 
   return (
     <div>
-      <h5 className="my-2 text-lg font-bold">Front End | Full Stack Developer</h5>
+      <h5 className="my-2 text-lg font-bold">
+        Front End | Full Stack Developer
+      </h5>
       <p className="my-3">Abril 2023 - Actualmente</p>
       <p className="my-3 text-base text-justify">
         {showFullText ? (
@@ -22,8 +24,8 @@ const ResumeContent = () => {
             {shortText}
             {fullText}
             <a
-              href="\assets\Juan-Gutierrez-Desarrollador-Front-End-Full-Stack.pdf"
-              download="Juan-Gutierrez-Desarrollador-Front-End-Full-Stack.pdf"
+              href="\assets\Desarrollador-Front-End-Full-Stack-Juan_Gutierrez_CV.pdf"
+              download="Desarrollador-Front-End-Full-Stack-Juan_Gutierrez_CV.pdf"
               aria-label="Resume"
             >
               <button className="text-blue">

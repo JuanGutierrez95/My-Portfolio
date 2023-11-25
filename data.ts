@@ -19,8 +19,6 @@ import {
   SiJirasoftware,
   SiMongodb,
   SiNextdotjs,
-  SiCsharp,
-  SiDotnet,
   SiNodedotjs,
   SiPostgresql,
   SiReact,
@@ -74,12 +72,12 @@ export const languages: ISkill[] = [
   {
     Icon: SiTypescript,
     name: "Typescript",
-    level: "70%",
+    level: "60%",
   },
   {
     Icon: SiRedux,
     name: "Redux & Redux-Toolkit",
-    level: "75%",
+    level: "70%",
   },
   {
     Icon: SiReact,
@@ -89,7 +87,7 @@ export const languages: ISkill[] = [
   {
     Icon: SiTailwindcss,
     name: "Tailwind CSS",
-    level: "80%",
+    level: "70%",
   },
   {
     Icon: SiNodedotjs,
@@ -109,7 +107,7 @@ export const languages: ISkill[] = [
   {
     Icon: SiNextdotjs,
     name: "Next.Js",
-    level: "75%",
+    level: "55%",
   },
   {
     Icon: SiHtml5,
