@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import { IoMdArrowRoundBack } from "react-icons/io";
 
-const shortText = `Como desarrollador, estoy trabajando en proyectos utilizando tecnologías como TypeScript, React, Tailwind CSS, Next.js, Node.js y Express. Mi enfoque se centra en el desarrollo de interfaces de usuario interactivas y receptivas con React y TypeScript, utilizando las mejores prácticas para escribir un código limpio y eficiente. Además, estoy utilizando Tailwind CSS para la maquetación de estilos, lo que me permite diseñar interfaces atractivas de manera rápida y sencilla.`;
+const shortText = `Diseñé distintos proyectos, enfocándome en la calidad del Desarrollo Front-End. Entre los proyectos trabajados realicé mi portafolio, Foro personalizado, App Weather, y actualmente estoy trabajando en desarrollar una plataforma web dedicada exclusivamente a las vivencias y relatos de viajes, donde los usuarios tengan la posibilidad de registrarse, iniciar sesión, crear publicaciones sobre viajes y participar activamente al agregar comentarios a las publicaciones de otros viajeros.`;
 
-const fullText = ` También estoy aprovechando las ventajas de Next.js para optimizar el rendimiento de las aplicaciones mediante técnicas como el renderizado del lado del servidor y la generación de sitios estáticos. En el lado del servidor, estoy trabajando con Node.js y Express para desarrollar servicios web robustos y escalables, asegurando una comunicación eficiente entre el cliente y el servidor.`;
+const fullText = ` Tecnologías utilizadas: JavaScript, React, TypeScript, Next.js, Node.js, Express, Sequelize, PostgreSQL, Mongoose, MongoDB y SQL.`;
 
 const ResumeContent = () => {
   const [showFullText, setShowFullText] = useState(false);
@@ -14,10 +14,8 @@ const ResumeContent = () => {
 
   return (
     <div>
-      <h5 className="my-2 text-lg font-bold">
-        Front End | Full Stack Developer
-      </h5>
-      <p className="my-3">Abril 2023 - Actualmente</p>
+      <h5 className="my-2 text-lg font-bold">Full Stack Developer</h5>
+      <p className="my-3">Mayo 2023 - Actualmente</p>
       <p className="my-3 text-base text-justify">
         {showFullText ? (
           <>

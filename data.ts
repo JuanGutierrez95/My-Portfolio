@@ -55,12 +55,6 @@ export const services: IService[] = [
     about:
       "<b>Solucionador de problemas diarios, aprendiz rápido, muy apasionado por la codificación y me encanta asumir tareas desafiantes.</b>",
   },
-  {
-    Icon: BiTestTube,
-    title: "e2e Testing & Unit Tests",
-    about:
-      "Puedo crear pruebas e2e usando <b>Cypress</b> y pruebas unitarias usando <b>Jest & React Testing Library.</b>",
-  },
 ];
 
 export const languages: ISkill[] = [
@@ -180,7 +174,7 @@ export const tools: ISkill[] = [
   {
     Icon: MdLanguage,
     name: "Inglés",
-    level: "40%",
+    level: "45%",
   },
 ];
 

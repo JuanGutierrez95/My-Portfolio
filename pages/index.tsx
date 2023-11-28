@@ -21,18 +21,14 @@ const Home = ({ endpoint }: { endpoint: string }) => {
         </title>
       </Head>
       <h5 className="my-3 font-medium text-justify text-md">
-        Desarrollador Full Stack, me especializo en el área Desarrollo Front
+        Desarrollador Full Stack, me especializo en el área de Desarrollo Front
         End, aplicando mi experiencia en JavaScript, React, TypeScript y
-        Node.js. He perfeccionado destreza en Unit Testing con Jest y React
-        Testing Library, así como en la implementación de metodologías Scrum
-        para la gestión ágil de proyectos. Mi competencia técnica se complementa
-        con habilidades blandas, incluyendo comunicación efectiva, colaboración,
-        trabajo en equipo y liderazgo. He demostrado estas capacidades en roles
-        de desarrollo, resultando en una colaboración exitosa y en el logro de
-        objetivos en equipo. Mi compromiso con el aprendizaje continuo y el
-        crecimiento profesional me impulsa a buscar oportunidades para aplicar
-        mis habilidades en empresas con una visión innovadora y orientada al
-        éxito.
+        Node.js. Así como en la implementación de metodologías Scrum para la
+        gestión ágil de proyectos. Mi competencia técnica se complementa con
+        habilidades blandas, incluyendo comunicación, trabajo en equipo y
+        liderazgo. He demostrado estas capacidades en roles de desarrollo,
+        resultando en una colaboración exitosa y en el logro de objetivos en
+        equipo.
       </h5>
       <div
         className="flex-grow p-4 mt-5 bg-gray-400 dark:bg-dark-100"
