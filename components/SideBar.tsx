@@ -34,8 +34,8 @@ const SideBar = () => {
       </p>
       <a
         className="flex items-center justify-center px-2 py-1 my-3 bg-gray-200 rounded-full dark:bg-dark-200"
-        href="\assets\Desarrollador-Front-End-Full-Stack-Juan-Gutierrez_CV.pdf"
-        download="'assets\Desarrollador-Front-End-Full-Stack-Juan-Gutierrez_CV.pdf"
+        href="\assets\Desarrollador_Front-End-Full-Stack-Juan-Gutierrez_CV.pdf"
+        download="assets\Desarrollador-Front-End-Full-Stack-Juan-Gutierrez_CV.pdf"
         aria-label="Resume"
       >
         <FaFileDownload className="w-6 h-6 mx-1 text-blue" />
