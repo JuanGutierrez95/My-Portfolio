@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { IoMdArrowRoundBack } from "react-icons/io";
 
-const shortText = `Diseñé distintos proyectos, enfocándome en la calidad del Desarrollo Front-End. Entre los proyectos trabajados realicé mi portafolio, Foro personalizado, App Weather, y actualmente estoy trabajando en desarrollar una plataforma web dedicada exclusivamente a las vivencias y relatos de viajes, donde los usuarios tengan la posibilidad de registrarse, iniciar sesión, crear publicaciones sobre viajes y participar activamente al agregar comentarios a las publicaciones de otros viajeros.`;
+const shortText = `Diseñar, desarrollar e implementar soluciones para aplicaciones web. Abarco tanto el lado del cliente (Frontend) como el lado del servidor (Backend), gestionando también la integración con bases de datos.`;
 
 const fullText = ` Tecnologías utilizadas: JavaScript, React, TypeScript, Next.js, Node.js, Express, Sequelize, PostgreSQL, Mongoose, MongoDB y SQL.`;
 
@@ -15,15 +15,15 @@ const ResumeContent = () => {
   return (
     <div>
       <h5 className="my-2 text-lg font-bold">Full Stack Developer</h5>
-      <p className="my-3">Mayo 2023 - Actualmente</p>
+      <p className="my-3">Mayo 2023 - Actualidad</p>
       <p className="my-3 text-base text-justify">
         {showFullText ? (
           <>
             {shortText}
             {fullText}
             <a
-              href="\assets\Desarrollador-Front-End-Full-Stack-Juan_Gutierrez_CV.pdf"
-              download="Desarrollador-Front-End-Full-Stack-Juan_Gutierrez_CV.pdf"
+              href="\assets\Desarrollador-Frontend-Full-Stack-Juan-Gutierrez_CV.pdf"
+              download="Desarrollador-Frontend-Full-Stack-Juan-Gutierrez_CV.pdf"
               aria-label="Resume"
             >
               <button className="text-blue">

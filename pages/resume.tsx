@@ -15,7 +15,7 @@ const resume = () => {
     >
       <Head>
         <title>
-          Juan Gutierrez | Resume | Full Stack | Front End Developer
+          Juan Gutierrez | Resume | Full Stack | Frontend Developer
         </title>
       </Head>
 
@@ -28,7 +28,7 @@ const resume = () => {
               Henry Bootcamp | 800 horas | Argentina | 2022
             </p>
             <h5 className="my-2 text-lg font-bold">
-              Licenciatura en Analisis de Sistemas
+              Licenciatura en Análisis de Sistemas
             </h5>
             <p className="my-3">Universidad de Buenos Aires | 2020 - 2022</p>
           </div>

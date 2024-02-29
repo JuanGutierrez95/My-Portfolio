@@ -36,7 +36,7 @@ const Projects = () => {
     >
       <Head>
         <title>
-          Juan Gutierrez | Projects | Full Stack | Front End Developer
+          Juan Gutierrez | Projects | Full Stack | Frontend Developer
         </title>
       </Head>
 

@@ -30,12 +30,12 @@ const SideBar = () => {
         <span className="text-3xl text-blue">Juan Gutiérrez</span>
       </h3>
       <p className="px-2 py-1 my-3 bg-gray-200 rounded-full dark:bg-dark-200">
-        Full Stack | Front End Developer
+        Full Stack | Frontend Developer
       </p>
       <a
         className="flex items-center justify-center px-2 py-1 my-3 bg-gray-200 rounded-full dark:bg-dark-200"
-        href="\assets\Desarrollador-Front-End-Full-Stack-Juan_Gutierrez_CV.pdf"
-        download="Desarrollador-Front-End-Full-Stack-Juan_Gutierrez_CV.pdf"
+        href="\assets\Desarrollador-Frontend-Full-Stack-Juan-Gutierrez_CV.pdf"
+        download="Desarrollador-Frontend-Full-Stack-Juan-Gutierrez_CV.pdf"
         aria-label="Resume"
       >
         <FaFileDownload className="w-6 h-6 mx-1 text-blue" />

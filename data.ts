@@ -22,7 +22,6 @@ import {
   SiNodedotjs,
   SiPostgresql,
   SiReact,
-  SiRedux,
   SiTailwindcss,
   SiTrello,
   SiTypescript,
@@ -67,11 +66,6 @@ export const languages: ISkill[] = [
     Icon: SiTypescript,
     name: "Typescript",
     level: "60%",
-  },
-  {
-    Icon: SiRedux,
-    name: "Redux & Redux-Toolkit",
-    level: "70%",
   },
   {
     Icon: SiReact,
